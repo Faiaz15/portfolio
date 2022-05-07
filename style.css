@@ -1,0 +1,69 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1
+{
+    font-size: 48px;
+}
+span{
+    color: orangered;
+}
+.flex
+{
+    display: flex;
+
+}
+.bio
+{
+    width: 50%;
+    padding: 5%;
+}
+.bio img
+{
+    width: 80%;
+}
+.hireme
+{
+    text-decoration: none;
+   background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;    
+    font-weight: 700;
+}
+.bio2
+{
+    width: 50%;
+    padding: 5%;
+}
+.bio2 img
+{
+    width: 70%;
+}
+.Download
+{
+    text-decoration: none;
+   background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;    
+    font-weight: 700;
+}
+.first
+{
+    background-image: url(istockphoto-1303637923-170667a.jpg);
+    
+}
+.second
+{
+    background-image: url(449895.jpg);
+}
+.third
+{
+    background-image: url(449940.jpg);
+}
+footer{
+    text-align: center;
+}
